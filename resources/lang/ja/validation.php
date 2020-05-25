@@ -31,7 +31,7 @@ return [
     ],
     'boolean' => ':attributeは、trueかfalseを指定してください。',
     'confirmed' => ':attributeと、確認フィールドとが、一致していません。',
-    'date' => ':attributeには有効な日付を指定してください。',
+    'date' => ':attributeには日付を入力してください。',
     'date_equals' => 'The :attribute must be a date equal to :date.',
     'date_format' => ':attributeは:format形式で指定してください。',
     'different' => ':attributeと:otherには、異なった内容を指定してください。',
